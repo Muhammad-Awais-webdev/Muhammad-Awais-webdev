@@ -31,9 +31,9 @@ const Awais = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Awais-webdev&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0d14&title_color=a89fe8&icon_color=7c6fc4&text_color=ccc" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Awais-webdev&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" />
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Awais-webdev&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d14&title_color=a89fe8&text_color=ccc&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Awais-webdev&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" />
 
 </div>
 
